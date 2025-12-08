@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\bin\Debug\Programa1.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\bin\Debug\Programa1.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\bin\Debug\Programa1.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\obj\Debug\Programa1.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\obj\Debug\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\obj\Debug\Programa1.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Programa1\Programa1\obj\Debug\Programa1.pdb
