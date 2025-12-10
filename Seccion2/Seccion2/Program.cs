@@ -50,13 +50,30 @@ namespace Seccion2
 
             //Console.WriteLine(resultado); 
 
-            string nombre;
+            //string nombre;
 
-            //Solicitamos al usuario que ingrese su nombre
-            Console.Write("¿Cómo te llamas?: ");
-            nombre = Console.ReadLine();
+            ////Solicitamos al usuario que ingrese su nombre
+            //Console.Write("¿Cómo te llamas?: ");
+            //nombre = Console.ReadLine();
 
-            Console.WriteLine("Hola {0}, bienvenido", nombre);
+            //Console.WriteLine("Hola {0}, bienvenido", nombre);
+
+            //Convirtiendo una cadena en tipo numérico
+            string entrada;
+            int num1 = 5, num2, resultado;
+
+            //Solicitamos al usuario que ingrese un número
+            Console.Write("Ingresa un número para sumarlo: ");
+            //Se asigna a la vartiable de tipo string "entrada" el valor ingresado por el usuario
+            entrada = Console.ReadLine();
+
+            //Convertimos la cadena "entrada" a tipo numérico (int) y lo asignamos a la variable num2
+            num2 = Int32.Parse(entrada);
+
+            resultado = num1 + num2;
+
+            //Mostramos el resultado
+            Console.WriteLine("El resultado de la suma es: " + resultado);
         }
     }
 }
