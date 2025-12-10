@@ -39,6 +39,24 @@ namespace Seccion2
 
             //Usando el operador "módulo" (%)
             //Console.WriteLine(5.9 % 3.1);
+
+            //Prioridad de operadores
+            //Multiplicación y división tienen mayor prioridad que suma y resta (Multiplicacion, Division, Modulo)
+            //Suma, Resta
+
+            //double resultado;
+
+            //resultado = (3 / 3) + (5 * 2);
+
+            //Console.WriteLine(resultado); 
+
+            string nombre;
+
+            //Solicitamos al usuario que ingrese su nombre
+            Console.Write("¿Cómo te llamas?: ");
+            nombre = Console.ReadLine();
+
+            Console.WriteLine("Hola {0}, bienvenido", nombre);
         }
     }
 }
