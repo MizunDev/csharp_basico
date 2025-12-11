@@ -1,0 +1,28 @@
+Hacer un programa que calcule el perímetro de cualquier polígono regular.
+
+INICIO 
+
+crear la variable de cantidad de lados
+crear la variable de medida de lados
+crear la variable de resultado
+Pedir el numero de lados del polígono
+leer el numero de lados del polígono y almacenarlo en la variable de cantidad de lados
+pedir la medida de los lados
+leer la medida de lados del polígono y almacenarlo en la variable de medida de lados
+multiplicar la cantidad de lados por la medida de los lados y almacenarlo en la variable de resultado
+mostrar el resultado de la operación en pantalla
+
+FIN
+
+Algoritmo poligono_perimetro
+	Definir lados Como Entero
+	Definir medida Como Entero
+	Definir resultado Como Entero
+	Escribir 'Ingrese la cantidad de lados del poligono: '
+	Leer lados
+	Escribir 'Ingrese la medida de los lados: '
+	Leer medida
+	resultado <- lados * medida
+	Escribir 'El perimetro del poligono es de: ', resultado, ' unidades'
+	
+FinAlgoritmo
