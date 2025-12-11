@@ -75,24 +75,55 @@ namespace Seccion2
 
             // Realizar un programa de computadora que haga el calculo del área de un rectángulo.
 
-            //variables
-            double altura, ancho, area, perimetro;
+            ////variables
+            //double altura, ancho, area, perimetro;
 
-            //Solicitamos al usuario que ingrese la altura y convertimos a tipo double
-            Console.Write("Ingresa la altura del rectángulo: ");
-            altura = Convert.ToDouble(Console.ReadLine());
+            ////Solicitamos al usuario que ingrese la altura y convertimos a tipo double
+            //Console.Write("Ingresa la altura del rectángulo: ");
+            //altura = Convert.ToDouble(Console.ReadLine());
 
-            //Solicitamos al usuario que ingrese el ancho y convertimos a tipo double
-            Console.Write("Ingresa la base del rectángulo: ");
-            ancho = Convert.ToDouble(Console.ReadLine());
+            ////Solicitamos al usuario que ingrese el ancho y convertimos a tipo double
+            //Console.Write("Ingresa la base del rectángulo: ");
+            //ancho = Convert.ToDouble(Console.ReadLine());
 
-            //Calculamos el área y perímetro
-            area = altura * ancho;
-            perimetro = 2 * (altura + ancho);
+            ////Calculamos el área y perímetro
+            //area = altura * ancho;
+            //perimetro = 2 * (altura + ancho);
 
-            //Mostramos los resultados en pantalla
-            Console.WriteLine("El área del rectángulo es: " + area + " Unidades cuadradas");
-            Console.WriteLine("El perímetro del rectángulo es: " + perimetro + " Unidades");
+            ////Mostramos los resultados en pantalla
+            //Console.WriteLine("El área del rectángulo es: " + area + " Unidades cuadradas");
+            //Console.WriteLine("El perímetro del rectángulo es: " + perimetro + " Unidades");
+
+            //Hacer un programa que calcule el perímetro de cualquier polígono regular.
+            //Variables
+            //double lado, medida, resultado;
+
+            //Solicitamos al usuario que ingrese el número de lados y convertimos a tipo double
+            //Console.Write("Ingresa la cantidad de lados del polígono regular: ");
+            //lado = Convert.ToDouble(Console.ReadLine());
+            //Solicitamos al usuario que ingrese la medida de los lados y convertimos a tipo double
+            //Console.Write("Ingresa la medida de los lados del polígono regular: ");
+            //medida = Convert.ToDouble(Console.ReadLine());
+
+            //Calculamos el perímetro
+            //resultado = lado * medida;
+
+            //Mostramos el resultado en pantalla
+            //    Console.WriteLine("El perímetro del polígono regular es: " + resultado + " Unidades");
+
+            //Hacer un programa que transforme de grados Centígrados a grados Fahrenheit.
+            //Variables
+            double celsius, fahrenheit;
+
+            //Solicitamos al usuario que ingrese la temperatura en grados Celsius y convertimos a tipo double
+            Console.Write("Ingresa la temperatura en grados Celsius: ");
+            celsius = Convert.ToDouble(Console.ReadLine());
+
+            //Convertimos de grados Celsius a grados Fahrenheit
+            fahrenheit = (celsius * 9 / 5) + 32;
+
+            //Mostramos el resultado en pantalla
+            Console.WriteLine("La temperatura en grados Fahrenheit es: " + fahrenheit + " °F");
         }
     }
 }
