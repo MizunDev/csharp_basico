@@ -118,6 +118,67 @@ namespace Seccion3
             //        Console.WriteLine("Error: No se puede dividir entre cero.");
             //    }
             //}
+            // Se necesita un programa que realice las operaciones aritméticas básicas: suma, resta, multiplicación y división, a partir de dos números, la operación se elige mediante un menú por parte del usuario usando if else anidados
+
+            // Variables
+            decimal num1, num2, resultado = 0m;
+            byte opcion;
+
+            // Mostramos el menú
+            Console.WriteLine("Seleccione la operación a realizar:");
+            Console.WriteLine("1. Suma");
+            Console.WriteLine("2. Resta");
+            Console.WriteLine("3. Multiplicación");
+            Console.WriteLine("4. División");
+            opcion = Convert.ToByte(Console.ReadLine());
+
+            // Pedimos los números
+            Console.Write("Ingrese el primer número: ");
+            num1 = Convert.ToDecimal(Console.ReadLine());
+
+            Console.Write("Ingrese el segundo número: ");
+            num2 = Convert.ToDecimal(Console.ReadLine());
+
+            // Suma
+            if (opcion == 1)
+            {
+                resultado = num1 + num2;
+                Console.WriteLine("El resultado de la suma es: {0}", resultado);
+            }
+            else
+            {
+                // Resta
+                if (opcion == 2)
+                {
+                    resultado = num1 - num2;
+                    Console.WriteLine("El resultado de la resta es: {0}", resultado);
+                }
+                else
+                {
+                    // Multiplicación
+                    if (opcion == 3)
+                    {
+                        resultado = num1 * num2;
+                        Console.WriteLine("El resultado de la multiplicación es: {0}", resultado);
+                    }
+                    else
+                    {
+                        // División
+                        if (opcion == 4)
+                        {
+                            if (num2 != 0)
+                            {
+                                resultado = num1 / num2;
+                                Console.WriteLine("El resultado de la división es: {0}", resultado);
+                            }
+                            else
+                            {
+                                Console.WriteLine("Error: No se puede dividir entre cero.");
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
