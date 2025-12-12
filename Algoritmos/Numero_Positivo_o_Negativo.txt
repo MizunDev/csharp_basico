@@ -1,0 +1,10 @@
+INICIO
+
+1. Pedir el número
+2. Determinar si el número es positivo
+3. Mostrar un mensaje si es el caso
+4. Determinar si el número es negativo
+5. Mostrar un mensaje si es el caso
+
+FIN
+
