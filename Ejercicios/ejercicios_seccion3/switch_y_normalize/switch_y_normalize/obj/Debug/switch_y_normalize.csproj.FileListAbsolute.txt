@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\bin\Debug\switch_y_normalize.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\bin\Debug\switch_y_normalize.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\bin\Debug\switch_y_normalize.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\obj\Debug\switch_y_normalize.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\obj\Debug\switch_y_normalize.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\obj\Debug\switch_y_normalize.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion3\switch_y_normalize\switch_y_normalize\obj\Debug\switch_y_normalize.pdb

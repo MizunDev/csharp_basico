@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Seccion3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D49D97A-FC77-4385-B89C-4E54C8D5FC11}|Seccion3\\Seccion3.csproj|c:\\users\\manue\\onedrive\\documents\\csharp_basico\\seccion3\\seccion3\\estructura_else_if.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D49D97A-FC77-4385-B89C-4E54C8D5FC11}|Seccion3\\Seccion3.csproj|solutionrelative:seccion3\\estructura_else_if.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D49D97A-FC77-4385-B89C-4E54C8D5FC11}|Seccion3\\Seccion3.csproj|c:\\users\\manue\\onedrive\\documents\\csharp_basico\\seccion3\\seccion3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D49D97A-FC77-4385-B89C-4E54C8D5FC11}|Seccion3\\Seccion3.csproj|solutionrelative:seccion3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "estructura_else_if.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Seccion3\\Seccion3\\estructura_else_if.cs",
-              "RelativeDocumentMoniker": "Seccion3\\estructura_else_if.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Seccion3\\Seccion3\\estructura_else_if.cs",
-              "RelativeToolTip": "Seccion3\\estructura_else_if.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAYwEgAAAAnAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Seccion3\\Seccion3\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion3\\Program.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Seccion3\\Seccion3\\Program.cs",
+              "RelativeToolTip": "Seccion3\\Program.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwLkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T21:06:32.167Z",
+              "WhenOpened": "2025-12-12T21:24:53.092Z",
               "EditorCaption": ""
             }
           ]
