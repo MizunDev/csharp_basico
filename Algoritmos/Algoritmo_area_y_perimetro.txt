@@ -8,7 +8,7 @@ INICIO
 6. Mostrar perímetro
 
 FIN
-
+.
 
 Pseudocódigo
 
