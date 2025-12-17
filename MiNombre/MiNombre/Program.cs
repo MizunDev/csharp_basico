@@ -10,7 +10,7 @@ namespace MiNombre
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jose Manuel");
+            Console.WriteLine("Jose Manuel Perilla");
             Console.WriteLine("Buenos días");
             Console.WriteLine("Hoy es un gran día para aprender C#");
         }
