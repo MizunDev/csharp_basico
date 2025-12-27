@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\bin\Debug\mostrarnumeros.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\bin\Debug\mostrarnumeros.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\bin\Debug\mostrarnumeros.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\obj\Debug\mostrarnumeros.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\obj\Debug\mostrarnumeros.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\obj\Debug\mostrarnumeros.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\mostrarnumeros\mostrarnumeros\obj\Debug\mostrarnumeros.pdb
