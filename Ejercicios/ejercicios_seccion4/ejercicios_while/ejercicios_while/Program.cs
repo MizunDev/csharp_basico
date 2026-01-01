@@ -108,6 +108,23 @@ namespace ejercicios_while
             //    }
             //}
 
+            while (true)
+            {
+                Console.WriteLine("Ingrese un número positivo para calcular su factorial (o un número negativo para salir): ");
+                int numero = int.Parse(Console.ReadLine());
+                if (numero < 0)
+                {
+                    Console.WriteLine("Número negativo ingresado, saliendo del programa.");
+                    break;
+                }
+                long factorial = 1;
+                for (int i = 1; i <= numero; i++)
+                {
+                    factorial *= i;
+                }
+                Console.WriteLine("El factorial de " + numero + " es: " + factorial);
+            }
+
             Console.WriteLine("Presione una tecla para salir...");
         }
     }
