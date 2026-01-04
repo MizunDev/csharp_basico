@@ -126,19 +126,35 @@ namespace ejercicios_while
         //    }
 
         //    Console.WriteLine("Presione una tecla para salir...");
-            int dinero = 100;
+            //int dinero = 100;
+            //while (true)
+            //{
+            //    if (dinero <= 0)
+            //    { 
+            //        Console.WriteLine("Modo rata activado");
+            //        break;
+            //    }
+            //    Console.WriteLine("Dinero disponible: " + dinero);
+
+            //    Console.WriteLine("Ingrese el monto a gastar: ");
+            //    int gasto = int.Parse(Console.ReadLine());
+            //    dinero -= gasto;
+            //}
+
             while (true)
             {
-                if (dinero <= 0)
-                { 
-                    Console.WriteLine("Modo rata activado");
+                Console.WriteLine("Ingrese un número para ver su tabla de multiplicar (o -1 para salir): ");
+                int numero = int.Parse(Console.ReadLine());
+                if (numero == -1)
+                {
+                    Console.WriteLine("Saliendo del programa.");
                     break;
                 }
-                Console.WriteLine("Dinero disponible: " + dinero);
-
-                Console.WriteLine("Ingrese el monto a gastar: ");
-                int gasto = int.Parse(Console.ReadLine());
-                dinero -= gasto;
+                Console.WriteLine("Tabla de multiplicar del " + numero + ":");
+                for (int i = 1; i <= 10; i++)
+                {
+                    Console.WriteLine(numero + " x " + i + " = " + (numero * i));
+                }
             }
         }
     }
