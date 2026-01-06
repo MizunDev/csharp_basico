@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\bin\Debug\ejercicios_for.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\bin\Debug\ejercicios_for.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\bin\Debug\ejercicios_for.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\obj\Debug\ejercicios_for.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\obj\Debug\ejercicios_for.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\obj\Debug\ejercicios_for.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\ejercicios_for\ejercicios_for\obj\Debug\ejercicios_for.pdb

@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\bin\Debug\factorial_de_un_numero.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\bin\Debug\factorial_de_un_numero.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\bin\Debug\factorial_de_un_numero.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\obj\Debug\factorial_de_un_numero.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\obj\Debug\factorial_de_un_numero.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\obj\Debug\factorial_de_un_numero.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\factorial_de_un_numero\factorial_de_un_numero\obj\Debug\factorial_de_un_numero.pdb

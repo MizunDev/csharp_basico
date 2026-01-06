@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\bin\Debug\menu_dowhile.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\bin\Debug\menu_dowhile.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\bin\Debug\menu_dowhile.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\obj\Debug\menu_dowhile.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\obj\Debug\menu_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\obj\Debug\menu_dowhile.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\menu_dowhile\menu_dowhile\obj\Debug\menu_dowhile.pdb

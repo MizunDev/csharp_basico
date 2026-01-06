@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\bin\Debug\calculadoradepotencias.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\bin\Debug\calculadoradepotencias.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\bin\Debug\calculadoradepotencias.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\obj\Debug\calculadoradepotencias.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\obj\Debug\calculadoradepotencias.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\obj\Debug\calculadoradepotencias.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\calculadoradepotencias\calculadoradepotencias\obj\Debug\calculadoradepotencias.pdb
