@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\bin\Debug\promedio_calificaciones.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\bin\Debug\promedio_calificaciones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\bin\Debug\promedio_calificaciones.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\obj\Debug\promedio_calificaciones.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\obj\Debug\promedio_calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\obj\Debug\promedio_calificaciones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion4\promedio_calificaciones\promedio_calificaciones\obj\Debug\promedio_calificaciones.pdb
