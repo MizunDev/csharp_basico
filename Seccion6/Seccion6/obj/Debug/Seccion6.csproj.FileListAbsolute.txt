@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\bin\Debug\Seccion6.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\bin\Debug\Seccion6.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\bin\Debug\Seccion6.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\obj\Debug\Seccion6.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\obj\Debug\Seccion6.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\obj\Debug\Seccion6.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\Seccion6\obj\Debug\Seccion6.pdb

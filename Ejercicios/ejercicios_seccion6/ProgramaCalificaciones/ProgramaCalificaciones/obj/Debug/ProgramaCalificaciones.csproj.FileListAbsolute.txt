@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\bin\Debug\ProgramaCalificaciones.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\bin\Debug\ProgramaCalificaciones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\bin\Debug\ProgramaCalificaciones.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\obj\Debug\ProgramaCalificaciones.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\obj\Debug\ProgramaCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\obj\Debug\ProgramaCalificaciones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\ProgramaCalificaciones\ProgramaCalificaciones\obj\Debug\ProgramaCalificaciones.pdb

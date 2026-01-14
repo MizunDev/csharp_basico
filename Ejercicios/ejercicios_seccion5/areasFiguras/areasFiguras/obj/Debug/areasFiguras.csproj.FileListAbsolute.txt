@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\bin\Debug\areasFiguras.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\bin\Debug\areasFiguras.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\bin\Debug\areasFiguras.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\obj\Debug\areasFiguras.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\obj\Debug\areasFiguras.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\obj\Debug\areasFiguras.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\areasFiguras\areasFiguras\obj\Debug\areasFiguras.pdb
