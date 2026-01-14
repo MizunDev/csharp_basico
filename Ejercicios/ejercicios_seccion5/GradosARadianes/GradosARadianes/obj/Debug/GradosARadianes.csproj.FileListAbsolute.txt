@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\bin\Debug\GradosARadianes.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\bin\Debug\GradosARadianes.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\bin\Debug\GradosARadianes.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\obj\Debug\GradosARadianes.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\obj\Debug\GradosARadianes.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\obj\Debug\GradosARadianes.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion5\GradosARadianes\GradosARadianes\obj\Debug\GradosARadianes.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Ejercicios\\ejercicios_seccion5\\areasFiguras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE094FE-B402-463D-BCC0-FD1C71BFE04B}|areasFiguras\\areasFiguras.csproj|c:\\users\\manue\\onedrive\\documents\\csharp_basico\\ejercicios\\ejercicios_seccion5\\areasfiguras\\areasfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE094FE-B402-463D-BCC0-FD1C71BFE04B}|areasFiguras\\areasFiguras.csproj|solutionrelative:areasfiguras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Ejercicios\\ejercicios_seccion5\\areasFiguras\\areasFiguras\\Program.cs",
+              "RelativeDocumentMoniker": "areasFiguras\\Program.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documents\\csharp_basico\\Ejercicios\\ejercicios_seccion5\\areasFiguras\\areasFiguras\\Program.cs",
+              "RelativeToolTip": "areasFiguras\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:26:05.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
