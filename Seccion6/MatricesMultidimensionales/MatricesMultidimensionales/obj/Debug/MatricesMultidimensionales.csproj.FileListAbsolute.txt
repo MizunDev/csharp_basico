@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\obj\Debug\MatricesMultidimensionales.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\obj\Debug\MatricesMultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\obj\Debug\MatricesMultidimensionales.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Seccion6\MatricesMultidimensionales\MatricesMultidimensionales\obj\Debug\MatricesMultidimensionales.pdb
