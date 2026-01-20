@@ -10,22 +10,26 @@ namespace Seccion6
     {
         static void Main(string[] args)
         {
-            byte i; //Variable de control del ciclo
+            // Acceder a una matriz escalonada con length y GetLength
+            int i; // Cilco exterior
+            int j; // Ciclo interior
 
-            // tipo[] nombre = new tipo[tamaño];
-            string[] nombres = new string[3];
+            double [][] matrizEscalonada = new double[4][]
+            {   new double[] {1.1, 2.2, 3.3},
+                new double[] {4.4, 5.5},
+                new double[] {6.6, 7.7, 8.8, 9.9},
+                new double[] {10, 215, 125}
+            };
 
-            for(i = 0; i <= 2; i++)
+            for (i = 0; i < matrizEscalonada.Length; i++)
             {
-                Console.Write("Ingresa el valor para el indice {0}: ", i);
-                nombres[i] = Console.ReadLine();
+                Console.WriteLine("Fila {0} tiene {1} columnas.", i, matrizEscalonada[i].Length);
+                for (j = 0; j < matrizEscalonada[i].Length; j++)
+                {
+                    Console.WriteLine("   Valor de la columna {0} es {1}", j, matrizEscalonada[i][j]);
+                }
             }
 
-            // Mostramos los valores
-            for (i = 0; i <= 2; i++)
-            {
-                Console.WriteLine(nombres[i]);
-            }
         }
     }
 }
