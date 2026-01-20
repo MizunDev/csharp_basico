@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\bin\Debug\CalificacionesSalones.exe.config
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\bin\Debug\CalificacionesSalones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\bin\Debug\CalificacionesSalones.pdb
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\obj\Debug\CalificacionesSalones.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\obj\Debug\CalificacionesSalones.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\obj\Debug\CalificacionesSalones.exe
+C:\Users\manue\OneDrive\Documents\csharp_basico\Ejercicios\ejercicios_seccion6\CalificacionesSalones\CalificacionesSalones\obj\Debug\CalificacionesSalones.pdb
